@@ -1,0 +1,6 @@
+{
+    "token" : "token", //string
+    "adminChatId" : -12345, //number
+    "adminId" : 12345, //number
+    "downloadDir" : "./downloads" //string
+}
